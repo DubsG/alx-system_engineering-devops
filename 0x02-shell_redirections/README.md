@@ -1,1 +1,1 @@
-Writting a script for standard output
+Shell input/output redirections and filters project
